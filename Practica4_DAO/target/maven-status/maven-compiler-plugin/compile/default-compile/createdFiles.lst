@@ -1,0 +1,4 @@
+com\emergentes\modelo\Aviso.class
+com\emergentes\dao\AvisoDAO.class
+com\emergentes\dao\AvisoDAOimpl.class
+com\emergentes\utiles\ConexionBD.class
